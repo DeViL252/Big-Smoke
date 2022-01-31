@@ -47,7 +47,7 @@ async def invite(ctx):
 # --- !totalservers ---
 @bot.command()
 async def tds(ctx):
-  if ctx.author.id == 450222321949736981:
+  if ctx.author.id == 936924519032049704:
     ts_list = ""
     for server in ctx.bot.guilds:
       ts_list = ts_list + f"{server.name}\n"
