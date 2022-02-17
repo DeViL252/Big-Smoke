@@ -11,7 +11,7 @@ SAMP Big Smoke is a discord bot which display information about SA:MP Servers us
 
 ## Development Requirement
 - Request Module
-- BS6, Beautiful Soap (for web scraping)
+- bs4, Beautiful Soap (for web scraping)
 
 
 ## Contributing
